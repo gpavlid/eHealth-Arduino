@@ -1,0 +1,6 @@
+This is an Arduino project for an application that is able to read e-Health data and serve the data on the web.
+
+Take a look at the original post for this project @ http://georgepavlides.info/ehealth-made-simple/
+
+The project is compatible with the ‘e-Health sensor platform kit’ 
+    by Cooking Hacks @ https://www.cooking-hacks.com/ehealth-sensors-complete-kit-biometric-medical-arduino-raspberry-pi
